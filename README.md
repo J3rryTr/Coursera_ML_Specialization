@@ -9,4 +9,7 @@ Focus on concepts base: Linear Regression, Logistic Regression, Gradient Descent
 Focus on concepts: Neural network, Tensorflow implementation in Python, Activate function, Backpropagration, Bias and Variance, and Decision Tree
 
 ## Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
-focus on concepts: clustering K-means, collaborative and content-base filtering, and Reinforcement learning
+Focus on concepts: clustering K-means, collaborative and content-base filtering, and Reinforcement learning
+
+# The Certificate in Machine Learning Specialization
+![Alt text](https://github.com/J3rryTr/Coursera_ML_Specialization/blob/main/.png)
