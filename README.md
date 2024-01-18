@@ -11,4 +11,4 @@ Neural network, Tensorflow implementation in Python, Activate function, Backprop
 Clustering K-means, collaborative and content-base filtering, Reinforcement learning, and PCA
 
 # The Certificate in Machine Learning Specialization
-![Alt text](https://github.com/J3rryTr/Coursera_ML_Specialization/blob/main/)
+![Alt text](https://github.com/J3rryTr/Coursera_ML_Specialization/blob/main/ML_specialization.png)
